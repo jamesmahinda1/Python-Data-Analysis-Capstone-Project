@@ -1,1 +1,1 @@
-# Python-Data-Analysis-Capstone-Project
+# Python-Data-Analysis-Capstone-Proposal
